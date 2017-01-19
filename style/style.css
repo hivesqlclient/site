@@ -110,7 +110,7 @@ ol li
 
 .accordion_headings:hover
 { background: #E1E1E1;
-  color: #FF0971;}
+  color: #0000CC;}
 
 .accordion_child
 { padding: 25px;
@@ -118,7 +118,7 @@ ol li
 
 .header_highlight
 { background: #E1E1E1;
-  color: #FF0971;}
+  color: #000000;}
 
 #logo
 { width: 100%;
