@@ -1,4 +1,3 @@
-# site
 **HiveSQLClient**
 
 https://hivesqlclient.github.io/site/
