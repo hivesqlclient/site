@@ -115,8 +115,7 @@ ol li
 .accordion_child
 { padding: 25px;
   background: #FFF;
-  min-height: 25px;
-  overflow: hidden;}
+  clear:both;}
 
 .header_highlight
 { background: #E1E1E1;
